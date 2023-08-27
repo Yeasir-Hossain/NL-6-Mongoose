@@ -15,3 +15,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use("/api/v1/user", userRoutes);
 
 export default app;
+
+
+// C:\Program Files\MongoDB\Server\7.0\data\
